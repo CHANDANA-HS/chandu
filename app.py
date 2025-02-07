@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Demo session of GEC - K R PETE')
+st.title("Demo session of GEC - K R PETE")
 
 import streamlit as st
 import pandas as pd
