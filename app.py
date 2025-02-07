@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Demo session of GEC - K R PETE')
 
-         import streamlit as st
+import streamlit as st
 import pandas as pd
 import numpy as np
 from sklearn.datasets import load_iris
